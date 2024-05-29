@@ -17,5 +17,5 @@ setup(
     version="0.2",
     description="Minha 1° Aplicação!",
     options={"build_exe": build_exe_options},
-    executables=[Executable("pinggpt.py", base=base)]
+    executables=[Executable("pingtcp.py", base=base)]
 )
